@@ -1,0 +1,16 @@
+node_modules/
+.pnp
+.pnp.js
+.env
+.env.local
+.env.development
+build/
+dist/
+.next/
+logs/
+*.log
+npm-debug.log*
+.vscode/
+.idea/
+*.swp
+.DS_Store
